@@ -1,0 +1,55 @@
+Software Development Life cycle (SDLC):
+
+there is six phases in software Development life cycle Analysis,Design,Development, 
+Testing, Deployment, Maintenance.
+
+============================================================================
+1- Analysis:
+roles:
+Product Owner: 
+
+Project Manager: 
+Business Analyst: 
+
+CTO (Chief Technology Officer): 
+============================================================================
+2- Design:
+roles:
+System Architect:
+
+UX/UI Designer:
+============================================================================
+3- Development:
+roles:
+Front-end Developer:
+
+Back-end Developer:
+
+============================================================================
+4- Testing:
+roles:
+Solutions Architect:
+
+QA Engineer: 
+
+
+Tester: 
+
+
+DevOps:
+
+============================================================================
+5- Deployment:
+roles:
+Data Administrator: 
+
+DevOps:
+
+============================================================================
+6- Maintenance (opetional):
+roles:
+Users: Provide feedback and report issues.
+
+Testers: 
+
+Support Managers:

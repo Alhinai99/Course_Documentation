@@ -1,0 +1,38 @@
+scrum:
+Scrum is a specific Agile framework used to manage and execute complex projects.
+
+Timing: 
+the works devided into sprints , each sprint usally takes 1-4 weeks to be done.
+
+sprint : each sprint usally takes 1-4 weeks to be done.
+==
+sprint planning: At the beginning of each sprint to decide the work will be done in this sprint.
+==
+Sprint Retrospective: its a review after the sprint is over to check the achived works.
+==
+Daily Scrum: 15 min maximmum meeting at the beginning of each day to discuss the daily works or the tasks gonna be done by the day.
+
+
+======================================
+
+Meetings:
+
+Sprint Planning: The team and Product Owner decide what work will be done in the sprint.
+==
+Daily Scrum : A short meeting (15 minutes) usually done stand-up.
+==
+Sprint Review: A meeting at the end of the sprint to review the works done during the sprint.
+==
+Sprint Retrospective: review the team proformence during the sprint which over.
+
+======================================
+Roles:
+
+Product Owner:
+most over represnting the customer , by Clarifies requirements and answers questions.
+==
+Scrum Master:
+ensure Scrum processes are followed and manages sprints meetings.
+==
+Development Team:
+Delivering the work through the sprint.
