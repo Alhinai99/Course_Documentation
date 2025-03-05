@@ -1,0 +1,30 @@
+git is control system to track changes in source code during software development
+and help to have copy of the repository in both local or cloud, 
+as well helps in merging works especially for teams which work in the same project.
+====================================================================================
+Cloud Repositories:
+GitHub:
+gitHub is the most popular platform for hosting Git repositories becouse its open-source
+and free to use with private repo.
+
+GitLab:
+GitLab is a web-based Git repository manager that provides a 
+complete DevOps lifecycle, including code management, CI/CD pipelines, and project management.as well, Self-hosted and cloud-hosted options.
+
+
+====================================================================================
+start-up Commands:
+
+git config --global user.name "Name": Set the author name for commits.
+git config --global user.email "email@com": Set the author email for commits.
+git init: to start new repo.
+
+======
+git status: track the status of the files
+git add <file>: Stage a file for commit.
+git commit -m "message": commit the work locally with comment.
+git diff: View changes made in your working directory compared to the staged files.
+=====
+remote:
+git remote add <name> <url>:Adds a new remote repository with a specific name (after creat cloud repo)
+git remote remove <name>:removes a remote repository by name.
