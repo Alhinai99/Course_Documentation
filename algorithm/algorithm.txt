@@ -1,0 +1,53 @@
+sum 2 number:
+first number = a
+second number = b
+add the 2 numbers , result = a+b
+represnt result
+
+===============================================================
+inding Factorial of a Number (Iterative):
+input number = y
+x = 2
+result = 1
+result = result * x
+x+1
+ return result
+
+==============================================================
+Recursive Algorithm:
+input number = x
+if x equla 0 or 1 
+return 1
+else check x (if x>1)
+make loop to x -1 until its equal 1 
+resturn x
+
+===============================================================
+Find the Largest Number in a List :
+
+input list [1,2,3....]
+-compare the first 2 in list
+-take the large number between the 2
+-compare the large with next number from the list
+-represnt the large at end
+
+===============================================================
+Count the Number of Vowels in a String :
+
+(a,e,i,o,u) vowels:
+-input word
+-compare the words letters with vowles list
+-if word letter equal to vowel , vowel= vowel +1
+-go to next letter
+
+===============================================================
+Reverse a String 
+-input word
+-number of letters = y
+-creat empty list to store revresed word , list of num Y
+-(loop While y!=0)
+-store y letter in first in the list = z (first letter)
+- (y -1) to move to the second last letter to store 
+- (z +1) to move to the next stroing spot in the list
+- stop once the Y = 0 
+
