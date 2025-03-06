@@ -1,0 +1,41 @@
+Reverse a String 
+
+-input word
+-number of letters = y
+-creat empty list to store revresed word , list of num Y
+-(loop While y!=0)
+-store y letter in first in the list = z (first letter)
+- (y -1) to move to the second last letter to store 
+- (z +1) to move to the next stroing spot in the list
+- stop once the Y = 0 
+===============================================================================
+search in list of student marks for the highest one:
+
+-input number of student
+-input the marks in list
+-compare the first marke  with second marke
+-take the large and compare it with next one
+-list is over
+- print the large
+
+===============================================================================
+sort the students marks from highest to lowest:
+
+-input number of student
+-input the marks in list
+-compare the first marke with second marke
+-take the largest number in list
+-in new list start from i = i +1
+-loop the new list
+- keep loop until the number is over
+- print the new list
+
+===============================================================================
+check if number is palindrome:
+
+-input number in list
+-creat reversed list of the main list
+-compare the first from main and reverse number
+- i+= to move to next in both lists
+- if function if all are equal print (palinderome number)
+-elese print (not palinderome number )
