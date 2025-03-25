@@ -1,0 +1,48 @@
+Agile Methodology:
+Agile is a task workflow process used in projects to ensure that the project meets the required objectives through a clear and smooth plan. This approach facilitates teamwork and aims to achieve:
+
+Flexibility in work
+
+Continuous development
+
+Faster performance
+
+Agile vs. Waterfall:
+Agile:
+Typically used in projects that require continuous development and need to go through phases multiple times (moving back and forth).
+
+Advantages:
+
+Flexibility in work, allowing for frequent changes
+
+Continuous development
+
+Disadvantages:
+
+Due to constant changes, it is difficult to determine the exact budget and time required to complete the project
+
+Best Practices:
+
+Ongoing discussions about the project
+
+Working in short sprints
+
+Waterfall:
+
+Easier to estimate the required budget and time for the project
+
+Clear steps for each phase
+
+Suitable for projects that do not require continuous development
+
+Disadvantages:
+
+Difficult to handle changes after a phase is completed
+
+Issues may be discovered late in the project lifecycle
+
+Best Practices:
+
+Clear understanding of ideas and requirements
+
+Tracking and recording completed tasks

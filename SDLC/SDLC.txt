@@ -1,55 +1,67 @@
-Software Development Life cycle (SDLC):
+First Phase: 
+Gathering project requirements and the general idea of the project. During this phase, the provided information is analyzed, and as much information as possible is collected from the project owner.
+==========================================
 
-there is six phases in software Development life cycle Analysis,Design,Development, 
-Testing, Deployment, Maintenance.
+Second Phase: 
+Design Phase, where the project idea from the previous phase is designed and represented with drawings to illustrate the program interface and how it works (such as the homepage, buttons, colors, and application flow).
+==========================================
 
-============================================================================
-1- Analysis:
-roles:
-Product Owner: 
+Development Phase: 
+This phase involves converting the design drawings into an actual website or application that can be used. This phase is divided into two main sections:
 
-Project Manager: 
-Business Analyst: 
+Front-end Development: Responsible for developing the user interface.
 
-CTO (Chief Technology Officer): 
-============================================================================
-2- Design:
-roles:
-System Architect:
+Back-end Development: Responsible for operations running in the background, such as input validation.
+==========================================
 
-UX/UI Designer:
-============================================================================
-3- Development:
-roles:
-Front-end Developer:
+Testing Phase: 
+The application or website is fully tested to identify any bugs or issues that may affect the user experience.
+==========================================
 
-Back-end Developer:
+Deployment Phase: 
+At this stage, the application or website is ready for users. This phase focuses on publishing the application and handling data within it.
+==========================================
 
-============================================================================
-4- Testing:
-roles:
-Solutions Architect:
+Maintenance Phase: 
+This is the final phase and is usually optional, depending on the type of application. Some applications do not require ongoing maintenance and monitoring. This phase involves fixing any discovered issues after project delivery, mainly through technical support.
 
-QA Engineer: 
+Roles and Responsibilities:
+In most cases, two people are involved in these phases, with similar roles but slight differences:
+==========================================
 
+PO (Product Owner): Defines project requirements and objectives.
 
-Tester: 
+PM (Project Manager): Focuses more on planning and scheduling.
 
+BA (Business Analyst): Gathers and understands requirements, business needs, and tends to work closely with leadership (e.g., CTO).
 
-DevOps:
+Technical Roles:
+SA (Solution Architect): Designs and organizes background processes.
 
-============================================================================
-5- Deployment:
-roles:
-Data Administrator: 
+UX/UI Designer: Specializes in designing the user interface and interaction experience.
 
-DevOps:
+Development:
+Usually, one person handles this role and is called a Full-Stack Developer:
 
-============================================================================
-6- Maintenance (opetional):
-roles:
-Users: Provide feedback and report issues.
+Front-end Developer: Works on the user interface and ensures it functions properly.
 
-Testers: 
+Back-end Developer: Manages background processes such as data retrieval and validation.
 
-Support Managers:
+Quality Assurance:
+SA: Ensures the project meets requirements and performance standards.
+
+QA (Quality Assurance): Tests the project to ensure there are no issues.
+
+Tester: Usually conducts manual testing to check all project functionalities.
+
+Deployment & Database:
+DA (Database Administrator): Manages stored data and security.
+
+DO (Deployment Operations): Ensures smooth deployment.
+
+Post-Deployment & Support:
+Usually, one person handles this due to the low frequency of post-delivery issues.
+
+U & T: Periodically review the project.
+
+SM (Support Manager): Provides technical support.
