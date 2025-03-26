@@ -1,0 +1,231 @@
+state all the web application parts and services
+
+Database
+
+Description: Stores user data, transactions, and application settings
+
+Examples
+
+MySQL
+MongoDB
+SQL Server
+PostgreSQL
+ORM
+Entity Framework (C#)
+Mongoose (Node.js)
+Hibernate (Java)
+
+
+Frontend (Client-Side)	
+Description: The user interface (UI) and experience (UX) of the web application that runs in a browser	
+
+Examples
+====
+HTML
+CSS
+JavaScript
+
+Frameworks
+React
+Angular
+Vue.js
+
+Backend (Server-Side)
+Description: Handles business logic, authentication, and database interactions	
+
+Server
+Node.js
+Python (Django/Flask)
+Ruby (Rails)
+Java (Spring)
+C# (.NET)
+API
+
+Description: Enables communication between frontend and backend	
+====
+Examples
+
+REST
+GraphQL
+
+Hosting
+
+Description: A platform that helps deploy and scale web applications efficiently.
+=====	
+Examples
+
+Azure
+AWS
+DevOps 
+
+Description: Automates deployment, testing, and scaling
+=====
+Examples
+
+Docker
+
+
+Web Server
+
+Description: Processes client requests and serves web pages	
+======
+Examples
+Apache
+
+State all the web stacks that you know and compare between them : where to use, when to use, features
+
+
+.Net
+Database, Programming Language, Framework
+
+Database: SQL server.
+Programming Language: C#.
+Framework: .Net / .Net Core.
+Where to use
+
+Enterprise apps
+
+financial systems
+
+E-commerce Platforms
+========
+When to use
+
+For large-scale applications requiring reliability, scalability, and maintainability.
+
+When security and enterprise-grade solutions are a priority
+========
+Features
+
+High performance 
+Common Type System
+strong IDE support (Visual Studio).
+Security
+
+Java
+Database, Programming Language, Framework
+
+Database: Oracle SQL.
+Programming Language: Java.
+Framework: Spring.
+Where to use
+
+Enterprise apps.
+
+E-commerce Platforms.
+
+Social Media Apps.
+
+When to use
+
+When building complex systems that require multi-threading and robustness.
+
+When building secure and scalable enterprise-level applications.
+
+Features
+=======
+Object-Oriented.
+Platform Independence.
+Scalability.
+=====
+Laravel
+Database, Programming Language, Framework
+=======
+Database: MySQL.
+Programming Language: PHP.
+Framework: Laravel.
+======
+Where to use
+
+Web Applications.
+E-commerce Platforms.
+
+
+Content Management Systems.
+
+When to use
+===========
+When building web applications that need features like routing, middleware, and authentication.
+When you want MVC architecture for clean code and separation of concerns.
+
+Features
+==========
+Eloquent ORM.
+Routing & Middleware.
+Security.
+Python
+=======
+Database, Programming Language, Framework
+Database: SQL Lite.
+=======
+Programming Language: Python.
+Framework: Django.
+Where to use
+
+Web Applications.
+
+RESTful APIs.
+
+Content Management Systems.
+
+When to use
+==
+When rapid development is needed with a focus on clean code and simplicity.
+When you need built-in admin interfaces for managing content and users.
+
+
+
+Features
+=======
+Django ORM.
+Built-in Admin Interface.
+Security.
+
+====
+MERN
+Database, Programming Language, Framework
+===
+Database: Mango DB.
+Programming Language: JavaScript.
+Framework: Express.
+
+Where to use
+=======
+Real-Time Applications.
+
+E-commerce Platforms.
+
+Social Media Apps.
+
+When to use
+==========
+When building apps that require real-time updates, like messaging or live feeds.
+
+When you want fast development and scalability.
+
+Features
+=========
+Node.js for fast and scalable server-side applications.
+
+MongoDB for a flexible, schema-less database solution.
+
+
+
+
+
+
+
+
+⦁ state all the tools of development that are used in .Net stack
+
+=====================================================================
+⦁Tools in the .NET Stack
+
+Programming Language: C#
+Frameworks: .Net, .NET Core
+IDEs: VS, SSMS
+Database: SQL Server
+ORM: Entity Framework Core, Dapper
+CI/CD: GitHub Actions.
+Frontend integration: Blazor, Angular, Nextjs, MVC
+
