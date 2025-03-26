@@ -1,0 +1,49 @@
+ Programming paradigm :
+is an approach to solve problem using some programming language or also we can say it is a method to solve a problem 
+using tools and techniques that are available to us following some approach.
+
+
+=============
+1- Imperative programming paradigm:
+
+It is one of the oldest programming paradigm. It features close relation to machine architecture. It is based on Von Neumann architecture. 
+It works by changing the program state through assignment statements. It performs step by step task by changing state. 
+The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
+
+Advantages: :::::
+Very simple to implement
+It contains loops, variables etc.
+
+Disadvantage::::::  
+Complex problem cannot be solved
+Less efficient and less productive
+Parallel programming is not possible
+
+		A- Procedural programming paradigm :::
+			This paradigm emphasizes on procedure in terms of under lying machine model. There is no difference in between procedural and imperative approach. 
+			It has the ability to reuse the code and it was boon at that time when it was in use because of its reusability.
+		
+		B-Object oriented programming – 
+		The program is written as a collection of classes and object which are meant for communication. The smallest and basic entity is object and all kind of computation is performed on the objects only. 
+		More emphasis is on data rather procedure. It can handle almost all kind of real life problems which are today in scenario.
+
+
+2-Declarative Programming Paradigm:
+This style focuses on what needs to be done rather than how. It expresses computation logic without detailing control flow,
+ making parallel programming easier. It includes:
+
+		A- Logic (programs as logical theories):
+			Based on formal logic (facts + rules).
+			Queries infer results via logical deduction.
+			Used in AI, expert systems.
+
+		B- Functional (functions as core building blocks)
+			Computations = math function evaluations.
+			Avoids state changes; uses pure/immutable functions.
+			Used in data/math tasks.
+
+		C- Database (e.g., SQL for data queries)
+			App logic driven by database data (not hardcoded).
+			Central for web apps, enterprise systems.
+
+===Unlike imperative (how to do), declarative (what to do) emphasizes results over steps.
