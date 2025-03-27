@@ -1,0 +1,30 @@
+Common Programming Errors:
+
+==========================================
+1. Syntax Errors (Compile-time): 
+Syntax Errors : Your code won't even compile
+
+int x = 5       // Missing semicolon
+Console.Writeline("Hello") // Misspelled method
+
+==============================================
+2. Runtime Errors:
+Runtime Errors : Code compiles but crashes during execution
+
+Null Reference Exception
+string name = null;
+Console.WriteLine(name.Length); // CRASH!
+
+Division by Zero
+int a = 10, b = 0;
+int result = a / b; // CRASH!
+
+==============================================
+3. Logical Errors (Code works but wrong output):
+Logical Errors :Code runs but gives wrong output
+
+Fahrenheit to Celsius (wrong formula)
+
+double fahr = 68;
+double celcius = (fahr - 32) * 5; // Should be /9
+Console.WriteLine(celcius); // Wrong conversion

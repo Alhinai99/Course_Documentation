@@ -1,0 +1,142 @@
+1. Data Types, Variables, Constants & I/O 
+==
+Data Types :
+int age = 25;                   // Whole number
+double price = 9.99;            // Decimal
+char grade = 'A';               // Single character
+string name = "John";           // Text
+bool isActive = true;           // True/False
+==
+Constants :
+const double PI = 3.14159;
+==
+Input/Output :
+
+Console.Write("Enter your name: ");
+string userName = Console.ReadLine();
+Console.WriteLine($"Hello, {userName}!");
+
+==================================================
+2. Arithmetic & Logic Operators
+Arithmetic
+int sum = 10 + 5;       // 15
+int mod = 10 % 3;       // 1 (remainder)
+
+Comparison
+bool isEqual = (5 == 5);    // true
+bool isGreater = (10 > 5);  // true
+
+Logical
+bool result = (true && false);  // AND → false
+bool anyTrue = (true || false); // OR → true
+bool notTrue = !true;           // NOT → false
+
+==============================================
+3. Conditional Statements:
+==
+if-else :
+if (temperature > 30) {
+    Console.WriteLine("Hot day!");
+}
+else if (temperature > 20) {
+    Console.WriteLine("Pleasant day");
+}
+else {
+    Console.WriteLine("Cold day");
+}
+
+// switch-case
+int day = 3;
+switch (day) {
+    case 1: Console.WriteLine("Monday"); break;
+    case 2: Console.WriteLine("Tuesday"); break;
+    default: Console.WriteLine("Invalid day"); break;
+}
+
+=======================================
+4. Looping
+==
+for loop:
+
+for (int i = 0; i < 3; i++) {
+    Console.WriteLine(i);  // 0 1 2
+}
+==
+while loop:
+
+int count = 0;
+while (count < 3) {
+    Console.WriteLine(count); // 0 1 2
+    count++;
+}
+==
+do-while
+int x = 5;
+do {
+    Console.WriteLine(x);  // 5 (runs at least once)
+    x--;
+} while (x > 0);
+
+==========================================
+5. Nested Operations :
+==
+Nested if:
+
+if (age >= 18) {
+    if (hasLicense) {
+        Console.WriteLine("Can drive");
+    }
+}
+====
+Nested loop (multiplication table):
+
+for (int i = 1; i <= 3; i++) {
+    for (int j = 1; j <= 3; j++) {
+        Console.Write($"{i*j} ");  // 1 2 3 2 4 6 3 6 9
+    }
+    Console.WriteLine();
+}
+========================================
+6. Array Data Structure 
+==
+1D Array:
+int[] numbers = { 10, 20, 30 };
+Console.WriteLine(numbers[1]);  // 20
+
+===
+Loop through array:
+
+foreach (int num in numbers) {
+    Console.WriteLine(num);  // 10 20 30
+}
+
+2D Array
+int[,] matrix = { {1, 2}, {3, 4} };
+Console.WriteLine(matrix[1,0]);  // 3
+
+=====================================
+7. Built-in C# Functions
+===
+ Math Functions:
+
+double root = Math.Sqrt(25);     // 5
+double power = Math.Pow(2, 3);   // 8
+
+===
+String Functions:
+
+string text = "Hello C#";
+int length = text.Length;         // 8
+string sub = text.Substring(0,5); // "Hello"
+
+===
+Type Conversion:
+string numStr = "123";
+int num = int.Parse(numStr);      // 123
+string numBack = num.ToString();  // "123"
+
+====
+DateTime
+
+DateTime now = DateTime.Now;
+Console.WriteLine(now.ToString("yyyy-MM-dd"));  // Current date
