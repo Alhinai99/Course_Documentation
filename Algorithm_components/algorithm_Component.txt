@@ -1,0 +1,42 @@
+An algorithm is a step-by-step procedure to solve a problem. Core components:  
+==================================
+Variables  
+- Store data (e.g., numbers, text).  
+	 Example:  
+  		age = 25  
+ 	 	name = "Alice"  
+=======================================
+Input/Output  
+- input() gets data, print() displays it.  
+	Example:  
+  		age = input("Enter age: ")  
+  		print("You entered:", age)  
+=========================================
+Conditionals  
+- Decisions using if/else.  
+- Example:  
+  if age >= 18:  
+      print("Adult")  
+  else:  
+      print("Minor")  
+
+=======================================
+Loops  
+- Repeat code (while/for).  
+	Example (for loop):  
+  		for i in range(1, 6):  
+      		print(i)  # Output: 1 2 3 4 5  
+
+===================================
+Functions 
+- Reusable code blocks.  
+	Example:  
+  		def add(a, b):  
+      			return a + b  
+  		print(add(5, 10))  # Output: 15  
+
+=== Arrays/Lists ===  
+- Store collections.  
+	Example:  
+  		numbers = [10, 20, 30]  
+  		print(numbers[1])  # Output: 20  
